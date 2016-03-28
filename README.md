@@ -52,7 +52,7 @@ b. 两个数字之前是小写字母x，而不是乘号。
 
 2. 在不能的layout下调整layout 的长宽等各种设置。以适应不同的分辨率。
 
-3 最后需要在AndroidManifest.xml里面添加下面一段，没有这一段自适应就不能实现：
+3. 最后需要在AndroidManifest.xml里面添加下面一段，没有这一段自适应就不能实现：
 
 </application>
 
